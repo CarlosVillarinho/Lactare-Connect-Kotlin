@@ -1,6 +1,7 @@
 Lactare Connect 🤱💙
 
-👥 Equipe e Integrantes
+👥 Equipe e Integrantes ->
+
 Nome do Projeto: Lactare Connect
 
 Nome da Equipe: Lactare Devs
@@ -12,7 +13,8 @@ Juliana Tami Kanashiro | RM: 558421
 
 Repositório GitHub: https://github.com/CarlosVillarinho/Lactare-Connect-Kotlin
 
-🎯 Objetivo do Aplicativo
+🎯 Objetivo do Aplicativo ->
+
 O Lactare Connect é um aplicativo Android desenvolvido em Kotlin e Jetpack Compose com foco em saúde. Seu principal objetivo é otimizar e incentivar a doação de leite materno, conectando doadoras a bancos de leite humano parceiros e redes de apoio a neonatos. O app facilita desde a verificação de elegibilidade até o agendamento de coletas e o acompanhamento por meio de uma interface moderna e intuitiva.
 
 📱 Principais Telas do Aplicativo
